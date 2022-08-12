@@ -43,23 +43,19 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
 }
-
-.inicio img {
+.inicio .inicio img {
   width: 100%;
 }
-
-.inicio span {
+.inicio .inicio img .inicio span {
   width: 100%;
   position: absolute;
   text-align: center;
   color: white;
 }
-
-.inicio h1 {
+.inicio .inicio img .inicio span .inicio h1 {
   font-size: 65px;
 }
-
-.inicio p {
+.inicio .inicio img .inicio span .inicio h1 .inicio p {
   font-size: 35px;
 }
 
