@@ -184,7 +184,7 @@ footer {
     }
     .card-img-top {
         width: 100%;
-        height: auto;
+        height: 250px;
         object-fit: cover;
     }
     .card-body {
@@ -267,7 +267,7 @@ input, textarea {
     .contact-form {
         grid-area: 3 / 1 / 4 / 4
     }
-    .card-img-top {
+    .card .card-img-top {
         width: 100%;
         height: auto;
         object-fit: cover;
